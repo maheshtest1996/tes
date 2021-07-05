@@ -1,0 +1,34 @@
+Atlassian is Australian software company
+
+What is Jira?
+ project mangment,issue-tracking,and bug tracking tool-for aglie software and bussiness teams. 
+
+what is confluence ?
+ Confluence is a team workspace where knowledge and collaboration meet.
+ Create, collaborate, and organize all your work in one place.
+
+what is bit bucket?
+Bitbucket is our Git repository management solution designed for professional teams. 
+It gives you a central place to manage git repositories, collaborate on your source code and guide you through the development flow
+
+what is bamboo?
+ Bamboo is a continuous integration (CI) and continuous delivery (CD) server.
+ it automated building and testing of software source-code status.
+
+what is Crowd?
+  Crowd allows you to manage users and their authentication permissions from multiple directories.
+
+what is trello?
+ Trello is the visual way for teams to collaborate on any project.
+
+what is opsgenie?
+ Opsgenie is a modern incident management platform that ensures critical incidents are never missed,
+ and actions are taken by the right people in the shortest possible time.
+
+what is stauspage?
+ status and incident communication tool. Keep customers and employees informed during downtime to build trust and cut support costs.
+
+what is Crucible?
+Crucible is the on-premises code review solution for enterprise teams. 
+ It allows your development teams to catch major defects, improve code architecture,
+ and discuss desired improvements, without the need for meetings.
